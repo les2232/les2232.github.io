@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.les2232.basementdatacenter",
+        "sha256_cert_fingerprints": ["45:0C:76:19:42:18:27:9E:5D:F8:07:98:41:EE:D9:14:9F:04:2E:24:EF:F6:01:2E:17:5B:36:B0:96:F3:4A:95"]
+      }
+    }]
